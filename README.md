@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musab2077&label=Profile%20views&color=0e75b6&style=flat" alt="musab2077" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning , Computer Vision**
+- 🌱 I’m currently learning **Machine Learning , Computer Vision , NLP**
 
 - 💬 Ask me about **Machine Learning**
+
+- ❤️ Portfolio Website **https://neon-kangaroo-10b555.netlify.app/**
 
 - 📫 How to reach me **muhammadmusab2077@gmail.com**
 
