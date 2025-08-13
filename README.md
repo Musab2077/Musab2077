@@ -1,13 +1,13 @@
 ![Header](./header.png)
-<h3 align="center">A passionate ML and Computer Vision expert from Pakistan</h3>
+<h3 align="center">Full Stack Developer (AI Focused)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musab2077&label=Profile%20views&color=0e75b6&style=flat" alt="musab2077" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning , Computer Vision , NLP**
+- 🌱 I am a **Full Stack Developer (AI Focused)**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **AI/ML and full stack development**
 
-- ❤️ Portfolio Website **https://neon-kangaroo-10b555.netlify.app/**
+- ❤️ **[Portfolio Website](https://musab-portfolio-beta.vercel.app)**
 
 - 📫 How to reach me **muhammadmusab2077@gmail.com**
 
