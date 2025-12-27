@@ -1,4 +1,4 @@
-![Header](./header.png)
+
 <h3 align="center">Full Stack Developer (AI Focused)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musab2077&label=Profile%20views&color=0e75b6&style=flat" alt="musab2077" /> </p>
